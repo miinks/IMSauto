@@ -52,3 +52,6 @@
     transition: 0.3s;
     cursor: pointer;
   }
+  .btn:hover {
+    background-color: var(--primary-color-dark);
+  }
