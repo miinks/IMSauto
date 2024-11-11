@@ -159,4 +159,10 @@ nav {
   display: grid;
   grid-auto-rows: minmax(0, 350px);
 }
+
+.banner__card {
+  padding: 5rem 2rem;
+  display: grid;
+  place-content: center;
+}
   
