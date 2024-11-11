@@ -134,6 +134,9 @@ nav {
   transform: translateY(0);
 }
 
-
+.nav__links a {
+  color: var(--white);
+  transition: 0.3s;
+}
 
   
