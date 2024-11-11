@@ -139,4 +139,8 @@ nav {
   transition: 0.3s;
 }
 
+.nav__links a:hover {
+  color: var(--primary-color);
+}
+
   
