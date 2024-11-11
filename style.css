@@ -130,5 +130,10 @@ nav {
   z-index: -1;
 }
 
+.nav__links.open {
+  transform: translateY(0);
+}
+
+
 
   
