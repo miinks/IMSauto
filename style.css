@@ -143,4 +143,7 @@ nav {
   color: var(--primary-color);
 }
 
+.header__content {
+  max-width: 600px;
+}
   
