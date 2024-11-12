@@ -192,4 +192,9 @@ nav {
   gap: 2rem;
 }
 
+.experience__image img {
+  max-width: 500px;
+  margin: auto;
+}
+
   
