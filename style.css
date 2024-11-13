@@ -226,5 +226,9 @@ nav {
   color: var(--secondary-color-dark);
 }
 
+.service__card p {
+  color: var(--text-light);
+}
+
 
   
