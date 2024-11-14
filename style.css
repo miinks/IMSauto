@@ -269,6 +269,12 @@ nav {
 }
 
 
+.price__grid {
+  margin-top: 4rem;
+  display: grid;
+  gap: 2rem 1rem;
+}
+
 
 
   
