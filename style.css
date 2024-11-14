@@ -242,5 +242,12 @@ nav {
   text-align: center;
 }
 
+.customisation__container :is(.section__header, .section__description) {
+  max-width: 750px;
+  margin: auto;
+  color: var(--white);
+}
+
+
 
   
