@@ -303,6 +303,11 @@ nav {
   transition: 0.3s;
 }
 
+.price__card:hover .price__card__ribbon {
+  font-size: 1rem;
+}
+
+
 
 
 
