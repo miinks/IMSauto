@@ -331,6 +331,12 @@ nav {
   color: var(--primary-color);
 }
 
+.price__card p {
+  margin-bottom: 1rem;
+  color: var(--text-light);
+}
+
+
 
 
 
