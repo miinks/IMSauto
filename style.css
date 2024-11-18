@@ -353,6 +353,11 @@ nav {
   color: var(--white);
 }
 
+.contact__btns {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
 
 
 
