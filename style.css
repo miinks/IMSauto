@@ -405,4 +405,7 @@ nav {
   color: var(--primary-color);
 }
 
+.footer {
+  background-color: var(--secondary-color-dark);
+}
   
