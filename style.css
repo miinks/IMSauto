@@ -380,4 +380,9 @@ nav {
   padding-bottom: 4rem;
 }
 
+.testimonial__card {
+  max-width: 600px;
+  margin: auto;
+}
+
   
