@@ -370,5 +370,8 @@ nav {
   border: 2px solid var(--white);
 }
 
+.testimonial__container {
+  text-align: center;
+}
 
   
