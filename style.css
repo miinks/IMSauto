@@ -364,7 +364,11 @@ nav {
   border: 2px solid var(--white);
 }
 
-
+.contact__btns .btn:nth-child(2) {
+  color: var(--primary-color);
+  background-color: var(--white);
+  border: 2px solid var(--white);
+}
 
 
   
