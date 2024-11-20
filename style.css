@@ -415,4 +415,8 @@ nav {
   gap: 2rem;
 }
 
+.subscribe__content .section__header {
+  color: var(--white);
+}
+
   
