@@ -445,4 +445,9 @@ nav {
   margin-bottom: 2rem;
 }
 
+.footer__socials {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
   
