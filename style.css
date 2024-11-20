@@ -436,4 +436,9 @@ nav {
   border-radius: 5px;
 }
 
+.footer__container {
+  display: grid;
+  gap: 4rem 2rem;
+}
+
   
