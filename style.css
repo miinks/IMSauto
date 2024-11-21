@@ -450,4 +450,13 @@ nav {
   align-items: center;
   gap: 1rem;
 }
+
+.footer__socials a {
+  padding: 5px 10px;
+  font-size: 1.25rem;
+  color: var(--text-light);
+  background-color: var(--secondary-color);
+  border-radius: 100%;
+  transition: 0.3s;
+}
   
