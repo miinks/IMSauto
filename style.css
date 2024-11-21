@@ -471,3 +471,7 @@ nav {
   font-weight: 600;
   color: var(--white);
 }
+
+.footer__links li {
+  margin-bottom: 1rem;
+}
