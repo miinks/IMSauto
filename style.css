@@ -493,3 +493,11 @@ nav {
   font-weight: 500;
   color: var(--white);
 }
+
+.footer__bar {
+  padding: 1rem;
+  font-size: 0.8rem;
+  color: var(--white);
+  background-color: var(--secondary-color);
+  text-align: center;
+}
