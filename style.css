@@ -507,3 +507,7 @@ nav {
     font-size: 4rem;
     line-height: 5rem;
   }
+
+  .banner__container {
+    grid-template-columns: repeat(2, 1fr);
+  }
