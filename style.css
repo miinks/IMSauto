@@ -501,3 +501,9 @@ nav {
   background-color: var(--secondary-color);
   text-align: center;
 }
+
+@media (width > 480px) {
+  .header__content h1 {
+    font-size: 4rem;
+    line-height: 5rem;
+  }
