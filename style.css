@@ -536,3 +536,12 @@ nav {
     grid-column: 1/3;
   }
 }
+
+@media (width > 768px) {
+  nav {
+    padding: 2rem 1rem;
+    position: static;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
