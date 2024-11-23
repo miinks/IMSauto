@@ -545,3 +545,8 @@ nav {
     align-items: center;
     justify-content: space-between;
   }
+
+  .nav__bar {
+    padding: 0;
+    background-color: transparent;
+  }
