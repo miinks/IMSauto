@@ -563,3 +563,7 @@ nav {
     flex-direction: row;
     background-color: transparent;
   }
+
+  .header {
+    padding-top: 0;
+  }
