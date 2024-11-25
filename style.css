@@ -585,3 +585,9 @@ nav {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
   }
+
+  
+  .service__grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
