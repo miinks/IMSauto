@@ -573,3 +573,7 @@ nav {
     line-height: 6rem;
   }
 
+  .banner__container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
