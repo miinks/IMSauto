@@ -32,3 +32,7 @@ navLinks.addEventListener("click", (e) => {
     delay: 500,
   });
   
+  ScrollReveal().reveal(".service__card", {
+    ...scrollRevealOptions,
+    interval: 500,
+  });
