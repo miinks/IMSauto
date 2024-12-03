@@ -38,3 +38,4 @@ navLinks.addEventListener("click", (e) => {
   });
 
   ScrollReveal().reveal(".price__card", {
+    ...scrollRevealOptions,
