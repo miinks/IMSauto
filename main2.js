@@ -22,3 +22,7 @@ navLinks.addEventListener("click", (e) => {
     origin: "bottom",
     duration: 1000,
   };
+
+  ScrollReveal().reveal(".header__content h1", {
+    ...scrollRevealOptions,
+  });
