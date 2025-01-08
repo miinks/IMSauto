@@ -26,3 +26,8 @@ navLinks.addEventListener("click", (e) => {
   ScrollReveal().reveal(".header__content h1", {
     ...scrollRevealOptions,
   });
+
+  ScrollReveal().reveal(".header__btn", {
+    ...scrollRevealOptions,
+    delay: 500,
+  });
