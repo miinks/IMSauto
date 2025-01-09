@@ -22,3 +22,9 @@
     margin: auto;
     padding: 5rem 1rem;
   }
+
+  .section__subheader {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--primary-color);
+  }
