@@ -35,3 +35,8 @@
     line-height: 3.5rem;
     color: var(--secondary-color-dark);
   }
+
+  .section__description {
+    margin-bottom: 2rem;
+    color: var(--text-light);
+  }
