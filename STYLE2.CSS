@@ -116,3 +116,17 @@ nav {
   color: var(--white);
   cursor: pointer;
 }
+
+.nav__links {
+  position: absolute;
+  width: 100%;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  background-color: var(--secondary-color);
+  transform: translateY(-100%);
+  transition: 0.5s;
+  z-index: -1;
+}
