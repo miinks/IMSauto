@@ -130,3 +130,7 @@ nav {
   transition: 0.5s;
   z-index: -1;
 }
+.nav_links a {
+  color: var(--white);
+  transition: 0.3s;
+}
