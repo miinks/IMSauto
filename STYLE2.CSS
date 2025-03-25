@@ -176,3 +176,9 @@ nav {
 }
 
 .banner__card h4 {
+  max-width: 300px;
+  margin: auto;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--white);
+}
