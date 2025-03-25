@@ -174,3 +174,5 @@ nav {
 .banner__card:nth-child(2) {
   background-color: var(--secondary-color-dark);
 }
+
+.banner__card h4 {
