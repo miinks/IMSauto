@@ -211,3 +211,5 @@ nav {
   display: grid;
   gap: 4rem 2rem;
 }
+
+.service__card img {
