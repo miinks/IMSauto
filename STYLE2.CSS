@@ -206,4 +206,8 @@ nav {
   text-align: center;
 }
 
-.service__grid 
+.service__grid {
+  margin-top: 4rem;
+  display: grid;
+  gap: 4rem 2rem;
+}
