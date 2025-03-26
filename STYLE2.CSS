@@ -201,3 +201,5 @@ nav {
 .service {
   background-color: var(--extra-light);
 }
+
+.service__container {
