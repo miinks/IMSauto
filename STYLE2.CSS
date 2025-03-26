@@ -182,3 +182,8 @@ nav {
   font-weight: 600;
   color: var(--white);
 }
+
+.banner__image img {
+  height: 100%;
+  object-fit: cover;
+}
