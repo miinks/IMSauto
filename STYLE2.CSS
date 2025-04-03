@@ -273,7 +273,7 @@ nav {
   margin-top: 4rem;
   display: grid;
   gap: 2rem 1rem;
-  
+
 }.price__card {
   position: relative;
   overflow: hidden;
@@ -282,4 +282,9 @@ nav {
   border-radius: 10px;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
   transition: 0.3s;
+}
+
+.price__card:hover {
+  border-color: var(--primary-color);
+  background-color: var(--extra-light);
 }
