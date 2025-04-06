@@ -326,3 +326,6 @@ nav {
   color: var(--text-light);
 }
 
+.price__card:hover h3 {
+  color: var(--primary-color);
+}
