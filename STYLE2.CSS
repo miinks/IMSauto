@@ -311,3 +311,12 @@ nav {
   font-weight: 600;
   color: var(--secondary-color-dark);
 }
+
+.price__card h3 {
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: var(--secondary-color-dark);
+  transition: 0.3s;
+}
+
