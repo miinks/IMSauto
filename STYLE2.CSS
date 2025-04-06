@@ -329,3 +329,13 @@ nav {
 .price__card:hover h3 {
   color: var(--primary-color);
 }
+
+.price__card p {
+  margin-bottom: 1rem;
+  color: var(--text-light);
+}
+
+.price__card .btn {
+  margin-top: 1rem;
+  min-width: 150px;
+}
