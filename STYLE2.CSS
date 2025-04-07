@@ -339,3 +339,11 @@ nav {
   margin-top: 1rem;
   min-width: 150px;
 }
+
+.contact {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("assets/contact.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
