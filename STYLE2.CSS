@@ -357,3 +357,8 @@ nav {
   align-items: center;
   gap: 1rem;
 }
+
+.contact__btns .btn:nth-child(1) {
+  background-color: transparent;
+  border: 2px solid var(--white);
+}
