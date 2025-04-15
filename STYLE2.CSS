@@ -403,3 +403,26 @@ nav {
   font-weight: 500;
   color: var(--primary-color);
 }
+
+.footer {
+  background-color: var(--secondary-color-dark);
+}
+
+.subscribe__container {
+  padding-bottom: 0;
+  display: grid;
+  gap: 2rem;
+}
+
+.subscribe__content .section__header {
+  color: var(--white);
+}
+
+.subscribe__form form {
+  width: 100%;
+  max-width: 400px;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
