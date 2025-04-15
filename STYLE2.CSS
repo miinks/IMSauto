@@ -426,3 +426,35 @@ nav {
   align-items: center;
   gap: 1rem;
 }
+
+.subscribe__form input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.footer__container {
+  display: grid;
+  gap: 4rem 2rem;
+}
+
+.footer__logo {
+  margin-bottom: 2rem;
+}
+
+.footer__socials {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer__socials a {
+  padding: 5px 10px;
+  font-size: 1.25rem;
+  color: var(--text-light);
+  background-color: var(--secondary-color);
+  border-radius: 100%;
+  transition: 0.3s;
+}
