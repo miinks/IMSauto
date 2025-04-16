@@ -458,3 +458,8 @@ nav {
   border-radius: 100%;
   transition: 0.3s;
 }
+
+.footer__socials a:hover {
+  color: var(--primary-color);
+  background-color: var(--white);
+}
