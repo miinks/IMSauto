@@ -463,3 +463,14 @@ nav {
   color: var(--primary-color);
   background-color: var(--white);
 }
+
+.footer__col h4 {
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--white);
+}
+
+.footer__links li {
+  margin-bottom: 1rem;
+}
