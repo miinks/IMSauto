@@ -483,3 +483,12 @@ nav {
 .footer__links a:hover {
   color: var(--white);
 }
+
+.footer__links p {
+  color: var(--text-light);
+}
+
+.footer__links p span {
+  font-weight: 500;
+  color: var(--white);
+}
