@@ -518,3 +518,7 @@ nav {
   .service__grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .customisation__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
