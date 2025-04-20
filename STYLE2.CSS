@@ -522,3 +522,7 @@ nav {
   .customisation__grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .price__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
