@@ -530,3 +530,8 @@ nav {
   .footer__container {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .footer__col:first-child {
+    grid-column: 1/3;
+  }
+}
