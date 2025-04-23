@@ -549,3 +549,7 @@ nav {
     padding: 0;
     background-color: transparent;
   }
+
+  .nav__menu__btn {
+    display: none;
+  }
