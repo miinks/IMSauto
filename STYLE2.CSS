@@ -575,3 +575,7 @@ nav {
   .banner__container {
     grid-template-columns: repeat(4, 1fr);
   }
+
+  .banner__image {
+    grid-column: 3/5;
+  }
