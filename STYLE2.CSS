@@ -605,3 +605,8 @@ nav {
   .contact__content {
     grid-column: 2/3;
   }
+
+  .subscribe__container {
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
