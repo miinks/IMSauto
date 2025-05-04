@@ -614,3 +614,8 @@ nav {
   .footer__container {
     grid-template-columns: repeat(4, 1fr);
   }
+
+  .footer__col:first-child {
+    max-width: 400px;
+  }
+}
