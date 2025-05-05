@@ -619,3 +619,9 @@ nav {
     max-width: 400px;
   }
 }
+
+@media (width > 1024px) {
+  .price__grid {
+    gap: 2rem;
+  }
+}
