@@ -3,7 +3,7 @@ const navLinks = document.getElementById("nav-links");
 const menuBtnIcon = menuBtn.querySelector("i");
 
 menuBtn.addEventListener("click", (e) => {
-    navLinks.classList.toggle("open");
+    navLinks.classList.toggle("open"
 
      const isOpen = navLinks.classList.contains("open");
   menuBtnIcon.setAttribute(
@@ -22,3 +22,7 @@ navLinks.addEventListener("click", (e) => {
     origin: "bottom",
     duration: 1000,
   };
+
+  ScrollReveal().reveal(".header__content h1", {
+    ...scrollRevealOptions,
+  });
