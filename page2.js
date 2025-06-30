@@ -26,3 +26,8 @@ navLinks.addEventListener("click", (e) => {
   ScrollReveal().reveal(".header__content h1", {
     ...scrollRevealOptions,
   });
+
+  ScrollReveal().reveal(".service__card", {
+    ...scrollRevealOptions,
+    interval: 500,
+  });
