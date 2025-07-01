@@ -31,3 +31,8 @@ navLinks.addEventListener("click", (e) => {
     ...scrollRevealOptions,
     interval: 500,
   });
+
+  ScrollReveal().reveal(".price__card", {
+    ...scrollRevealOptions,
+    interval: 500,
+  });
