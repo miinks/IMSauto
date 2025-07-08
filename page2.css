@@ -61,3 +61,7 @@
     width: 100%;
     display: flex;
   }
+
+  .logo img {
+    max-width: 150px;
+  }
