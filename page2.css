@@ -143,3 +143,7 @@ nav {
 .nav__links a:hover {
   color: var(--primary-color);
 }
+
+.header__content {
+  max-width: 600px;
+}
