@@ -155,3 +155,8 @@ nav {
   line-height: 4rem;
   color: var(--white);
 }
+
+.banner__container {
+  display: grid;
+  grid-auto-rows: minmax(0, 350px);
+}
