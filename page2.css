@@ -170,3 +170,7 @@ nav {
 .banner__card:nth-child(1) {
   background-color: var(--secondary-color);
 }
+
+.banner__card:nth-child(2) {
+  background-color: var(--secondary-color-dark);
+}
