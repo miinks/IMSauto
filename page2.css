@@ -193,3 +193,7 @@ nav {
   max-width: 500px;
   margin: auto;
 }
+
+.service {
+  background-color: var(--extra-light);
+}
