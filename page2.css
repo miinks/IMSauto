@@ -201,3 +201,9 @@ nav {
 .service__container {
   text-align: center;
 }
+
+.service__grid {
+  margin-top: 4rem;
+  display: grid;
+  gap: 4rem 2rem;
+}
