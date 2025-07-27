@@ -222,3 +222,7 @@ nav {
   font-weight: 600;
   color: var(--secondary-color-dark);
 }
+
+.service__card p {
+  color: var(--text-light);
+}
