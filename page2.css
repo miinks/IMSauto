@@ -250,3 +250,9 @@ nav {
   display: grid;
   gap: 4rem 2rem;
 }
+
+.customisation__card h4 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--white);
+}
