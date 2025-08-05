@@ -256,3 +256,7 @@ nav {
   font-weight: 700;
   color: var(--white);
 }
+
+.customisation__card p {
+  color: var(--white);
+}
