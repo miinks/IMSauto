@@ -260,3 +260,8 @@ nav {
 .customisation__card p {
   color: var(--white);
 }
+
+.price__container {
+  text-align: center;
+}
+
