@@ -265,3 +265,8 @@ nav {
   text-align: center;
 }
 
+.price__grid {
+  margin-top: 4rem;
+  display: grid;
+  gap: 2rem 1rem;
+
