@@ -281,3 +281,8 @@ nav {
   transition: 0.3s;
 }
 
+.price__card:hover {
+  border-color: var(--primary-color);
+  background-color: var(--extra-light);
+}
+
