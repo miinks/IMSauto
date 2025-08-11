@@ -299,3 +299,13 @@ nav {
   transition: 0.3s;
 }
 
+.price__card:hover .price__card__ribbon {
+  font-size: 1rem;
+}
+
+.price__card h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--secondary-color-dark);
+}
+
