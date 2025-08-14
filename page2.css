@@ -317,4 +317,10 @@ nav {
   transition: 0.3s;
 }
 
+.price__card h3 sup {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: var(--text-light);
+}
+
 
