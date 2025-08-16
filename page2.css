@@ -332,3 +332,8 @@ nav {
   color: var(--text-light);
 }
 
+.price__card .btn {
+  margin-top: 1rem;
+  min-width: 150px;
+}
+
