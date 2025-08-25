@@ -365,3 +365,7 @@ nav {
   background-color: var(--white);
   border: 2px solid var(--white);
 }
+
+.testimonial__container {
+  text-align: center;
+}
