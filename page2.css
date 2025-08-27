@@ -375,3 +375,17 @@ nav {
   margin-top: 4rem;
   padding-bottom: 4rem;
 }
+
+.testimonial__card {
+  max-width: 600px;
+  margin: auto;
+}
+
+.testimonial__card img {
+  max-width: 100px;
+  margin: auto;
+  margin-bottom: 1rem;
+  border-radius: 100%;
+  box-shadow: 5px 5px 20px
+   rgba(0, 0, 0, 0.2);
+}
