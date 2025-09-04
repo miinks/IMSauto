@@ -400,3 +400,7 @@ nav {
   font-weight: 500;
   color: var(--primary-color);
 }
+
+.footer {
+  background-color: var(--secondary-color-dark);
+}
