@@ -404,3 +404,9 @@ nav {
 .footer {
   background-color: var(--secondary-color-dark);
 }
+
+.subscribe__container {
+  padding-bottom: 0;
+  display: grid;
+  gap: 2rem;
+}
